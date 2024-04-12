@@ -328,3 +328,4 @@ I'm testing on Windows 10 and Ubuntu 22.04 Inkscape 1.2.1.
 
 Work on vignettes is still ongoing, but they are already available in the `vignettes`.
 
+
